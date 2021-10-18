@@ -24,6 +24,8 @@ THEN the saved events persist
 
 ## Mock Up
 
+![day planner demo](./Assets/05-third-party-apis-homework-demo.gif)
+
 
 ## URLs
 

@@ -11,7 +11,10 @@ body {
     color: #000000;
     border-left: 1px solid black;
     padding: 10px;
+    width: 83.3333333%;
   }
+
+  input{width: 83.33333%;}
   
   .jumbotron {
     text-align: center;
@@ -32,7 +35,6 @@ body {
   
   .row {
     white-space: pre-wrap;
-    /* height: 184px; */
     border-top: 1px solid white;;
   }
   
