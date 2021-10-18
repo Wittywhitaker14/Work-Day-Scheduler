@@ -31,5 +31,8 @@ THEN the saved events persist
 
 The URL of the deployed application.
 
+https://wittywhitaker14.github.io/Work-Day-Scheduler/
 
 The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
+
+https://github.com/Wittywhitaker14/Work-Day-Scheduler.git
